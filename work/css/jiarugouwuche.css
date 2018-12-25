@@ -1,0 +1,271 @@
+.m1{
+	width: 100%;
+	height: 635px;
+	background-color: #f6f5f4;
+	opacity: 0.3;
+}
+.m2{
+	width: 1180px;
+	height: 635px;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+.m3{
+	width: 990px;
+	height: 635px;
+	float: left;
+}
+.m4{
+	width: 930px;
+	height: 432px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.m4>img{
+	float: left;
+	border: 1px solid #d0cdc7;
+}
+.m5{
+	float: left;
+	width: 465px;
+	height: 432px;
+	/*background-color: red;*/
+	margin-left: 20px;
+}
+.m5>p:first-child{
+	font-size: 15px;
+	line-height: 22px;
+	color: #000000;
+}
+.m5>p{
+	font-size: 12px;
+	color:#676660;
+	line-height: 22px;
+}
+.m6{
+	margin-left: 25px;
+	width: 465px;
+}
+.m6>p{
+	float: left;
+	margin-right: 25px;
+	font-size: 11px;
+	width: 68px;
+	height: 29px;
+	line-height: 29px;
+	text-align: center;
+	cursor: pointer;
+}
+.duigou{
+	border: 1px solid #fe0d4a;
+	background: url(../img/duigou.png) no-repeat 57px 17px;
+}
+.m7{
+	margin-left: 25px;
+	margin-top: 50px;
+	width: 465px;
+	height: 29px;
+}
+.m7>p{
+	float: left;
+	height: 29px;
+	font-size: 11px;
+	line-height: 29px;
+	margin-right: 64px;
+}
+.m7>button{
+	width: 27px;
+	height: 29px;
+	line-height: 29px;
+	text-align: center;
+	font-size: 11px;
+	border: 1px solid #cecbc5;
+	float: left;
+	background-color: #ffffff;
+	cursor: pointer;
+}
+.m7>input{
+	width: 53px;
+	height: 27px;
+	line-height: 27px;
+	text-align: center;
+	font-size: 11px;
+	border: 1px solid #cecbc5;
+	float: left;
+}
+#shengyu{
+	margin-left: 30px;
+}
+#shengyu>span{
+	font-weight: bold;
+}
+.m8{
+	margin-left: 25px;
+	margin-top: 20px;
+	width: 465px;
+	height: 20px;
+}
+.m8>p{
+	height: 20px;
+	line-height: 20px;
+	font-size: 13px;
+	color: #676660;
+	float: left;
+}
+.m8>p:first-child{
+	margin-right: 60px;
+}
+#xiaoliang{
+	color: #ff05b7;
+	font-weight: bold;
+}
+.m9{
+	margin-left: 110px;
+	margin-top: 20px;
+	width: 400px;
+	height: 20px;
+}
+.m9>p{
+	height: 20px;
+	line-height: 20px;
+	font-size: 13px;
+	float: left;
+}
+#xuanze{
+	margin-left: 20px;
+	font-size: 16px;
+	color: #ff9003;
+}
+.m10{
+	margin-left: 25px;
+	margin-top: 20px;
+	width: 465px;
+	height: 40px;
+}
+.m10>button{
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 17px;
+	color: #ff0754;
+	border: 1px solid #ff0754;
+	border-radius: 8px;
+	background-color: #ffffff;
+	margin-right: 20px;
+}
+#add{
+	color: #ffffff;
+	background: #ff0754;
+}
+.m12{
+	width: 465px;
+	height: 20px;
+	line-height: 20px;
+}
+#price{
+	float: left;
+	font-size: 12px;
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-right: 56px;
+	height: 20px;
+	line-height: 20px;
+}
+#xianjia{
+	float: left;
+	font-size: 16px;
+	color: #ff0000;
+	margin-top: 25px;
+	margin-right: 23px;
+	height: 20px;
+	line-height: 20px;
+}
+#yuanjia{
+	float: left;
+	font-size: 12px;
+	text-decoration: line-through;
+	margin-top: 25px;
+	height: 20px;
+	line-height: 20px;
+}
+.m11{
+	width: 410px;
+	height:66px;
+	margin-left: 20px;
+}
+.m11>img{
+	float: left;
+	height: 66px;
+	vertical-align: middle;
+	cursor: pointer;
+}
+.m11>img:last-child{
+	float: right;
+}
+.m12{
+	width: 60px;
+	height:57px;
+	border: 1px solid #ff9003;
+}
+.m13{
+	width: 180px;
+	height:636px;
+	float: left;
+	background-color: #f6f5f4;
+	padding-left: 8px;
+}
+.o1{
+	width: 400px;
+	height: 226px;
+	margin: 0 auto;
+	border: 2px solid #aca9d3;
+	background-color: #ffffff;
+	z-index: 2;
+	position: fixed;
+	top: 270px;
+	left: 580px;
+	opacity: 1px;
+}
+.o2{
+	padding-top: 15px;
+	width: 400px;
+	height: 35px;
+}
+.o5{
+	float: right;
+}
+.o5>span{
+	margin-right:  15px;
+}
+.o3{
+	width: 400px;
+	height: 36px;
+	vertical-align: middle;
+}
+.o3>img{
+	vertical-align: middle;
+}
+.o4{
+	margin-top: 60px;
+	width: 400px;
+	height:42px; 
+}
+.o4>button{
+	float: left;
+	width: 150px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center;
+	border: 1px solid #ff0754;
+	background-color: #ff0754;
+	color: #ffffff;
+	border-radius: 5px;
+	font-size: 17px;
+}
+.o4>button:first-child{
+	background-color: #ffffff;
+	color: #ff0754;
+	margin: 0 33px;
+}
