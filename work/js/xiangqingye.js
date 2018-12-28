@@ -115,7 +115,7 @@ function change(){
 	if (liang>=5) {
 		num.value=5;
 	}
-	else if(liang<=1){
+	else if(liang<=1||!liang){
 		num.value=1;
 	}
 	else{
