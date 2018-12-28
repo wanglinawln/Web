@@ -408,7 +408,7 @@ ul,li{
 	display: none;
 	width: 410px;
 	height: 410px;
-	/*background-color: #ffffff;*/
+	background-color: #ffffff;
 	position: absolute;
 	left: 410px;
 	top: 0;
@@ -420,7 +420,7 @@ ul,li{
 	float: left;
 	width: 465px;
 	height: 432px;
-	/*background-color: red;*/
+
 	margin-left: 20px;
 }
 .m5>p:first-child{
