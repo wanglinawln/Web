@@ -55,9 +55,9 @@ window.onload=function(){
 
 		m14.onmousemove = function (ev) {
 			var ev = ev || window.event;
-
+			var Top=document.documentElement.scrollTop || document.body.scrollTop;
 			var oL = ev.clientX - m17.offsetLeft - slider.offsetWidth / 2;
-			var oT = ev.clientY - m17.offsetTop - slider.offsetHeight / 2;
+			var oT = ev.clientY+Top - m17.offsetTop - slider.offsetHeight / 2;
 
 			var oMaxw = m14.offsetWidth - slider.offsetWidth;
 			var oMaxh = m14.offsetHeight - slider.offsetHeight;
